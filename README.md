@@ -1,3 +1,4 @@
-#unblocked
+Chromebook Bypasses/JailBreaks
 
-place for Chromebook Bypasses
+"https://anno.villainsrule.xyz/" found this and so far unblocked
+
