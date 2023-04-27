@@ -4,3 +4,4 @@ Chromebook Bypasses/JailBreaks
 
 The Bookmarklet is a work in progress unblock.
 
+"https://torarp.se/bypass/" website proxy
