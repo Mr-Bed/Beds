@@ -1,2 +1,3 @@
-# Beds
-THIS IS A PLACE FOR BEDS TO SLEEP AT
+#unblocked
+
+#place for Chromebook Bypasses
