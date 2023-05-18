@@ -1,6 +1,6 @@
 Chromebook Bypasses/JailBreaks
 
-"https://anno.villainsrule.xyz/" found this and so far unblocked
+"https://anno.villainsrule.xyz/" BLOCKED
 
 The Bookmarklet is a work in progress unblock.
 
